@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .body-top{
+    background-image: url(/proxy-image.jpg);
+    margin-bottom: 30px;
+} */
+
+h1 {
+    font-family: 'Franklin';
+    font-weight: bolder;
+    text-align: center;
+    font-size: 50px;
+}
+
+.content {
+    display: flex;
+
+}
+
+ul a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.drop {
+    padding-top: 20px;
+    padding-right: 30px;
+    text-align: center;
+    
+}
+
+button {
+    padding-right: 25px;
+    text-align: center;
+    display: flex;
+    padding-top: 10px;
+}
+.p1 img {
+    margin-top: 20px;
+    height: 400px;
+    width: 330px;
+    margin-left: 3px;
+    border: 5px;
+    border-radius: 7px;
+    box-shadow: 0 5px 8px 0 black;
+}
